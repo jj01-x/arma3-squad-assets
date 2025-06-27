@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<squad nick="[XIII T.F.A]">
+  <name>XIII Tactical Force Avdentes</name>
+  <email>contatto@varesquad.it</email>
+  <web>https://varesquad.it</web>
+  <picture>https://jj01-x.github.io/arma3-squad/STEMMA.paa</picture>
+  <title>Arma 3 Tactical Unit</title>
+
+  <member id="Vare01">
+    <name>Capitano Vare</name>
+    <email>capitano@varesquad.it</email>
+    <remark>Leader</remark>
+  </member>
+  <member id="76561198069298276">
+    <name>[XIIITFA]jj</name>
+    <remark>Operator Assault</remark>
+  </member>
+</squad>
